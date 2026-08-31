@@ -1,11 +1,10 @@
-package com.example.cadastro;
+package com.example.cadastro.interface_ui.controller;
 
-import com.example.cadastro.Usuario;
+import com.example.cadastro.UsuarioRepository;
+import com.example.cadastro.domain.entity.Usuario;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 import java.util.UUID;

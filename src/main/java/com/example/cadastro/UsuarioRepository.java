@@ -1,6 +1,6 @@
 package com.example.cadastro;
 
-import org.springframework.data.domain.Pageable;
+import com.example.cadastro.domain.entity.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

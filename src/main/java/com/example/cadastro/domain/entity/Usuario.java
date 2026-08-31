@@ -1,4 +1,4 @@
-package com.example.cadastro;
+package com.example.cadastro.domain.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
